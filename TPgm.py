@@ -46,11 +46,11 @@ b = int(input("Enter the second number:",))
 
 if a >= b:
 
-print("The is true")
+    print("The is true")
 
 else:
 
-print("This is false")
+    print("This is false")
 
 # this is the correct program with correct space.
 
