@@ -1,5 +1,5 @@
 # to create function 
-def func_name(par 1, par 2): paramater = variables
+# def func_name(par 1, par 2): #paramater = variables
 
 def cal_sum(a,b):
     sum = a+b
