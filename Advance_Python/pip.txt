@@ -1,0 +1,55 @@
+PIP(Package installer for Python) Tool:-
+
+Python gives a tool called as 'pip' using which you can install,
+manage additional packages and librearies.
+
+pip --version
+pip -v
+py -m pip --version
+
+
+executing python programs
+MOdules :- py modulename.py
+Scripts :- py -m modulename
+
+
+output same hunxa interal execution different
+
+
+update pip
+pip install --upgrade pip
+
+Pypi(python Package index)
+onlie repository 
+
+pip install requsts == 2.28.1
+
+outdated package garu check garna ko laagi chai 
+pip list --outdated --verbose
+(.) represent the current directory
+
+
+installing package form github
+pip install Github repository URL
+pip inspect
+evey details can be seen in the json format
+
+pip debug : debuggin 
+
+**PythonPath**
+the "python path" refers to teh list of directories that python usest to search for MOdules
+packages and ohter files when executing a Scripts or importing MOdules.
+
+How python search?
+current directory
+PYTHONPATH Environment Variables
+Standard LIbrary
+Site-Packages.
+
+
+Enumerate() in python
+Keeps a counter to iterable and returns it.
+syntax:- Enumerate(iterable, [start=0])
+iterable:- any object that suports iteration. i.e list, 
+Start :- staring point of counter.
+
